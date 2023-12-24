@@ -1,0 +1,44 @@
+﻿
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+button {
+    background-color: purple;
+    margin: auto;
+}
+
+h3, h1, h4, h2 {
+    color: purple;
+}
+
+thead {
+    background-color: purple;
+}
+
+th-button {
+    text-emphasis-color: white;
+}
+
+.bg-image {
+    background: url("homeb.jpg");
+    padding: 50px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 15px;
+}
+
+.nav-item a.nav-link {
+    color: purple;
+}
+
+div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+tr.th {
+    height: 70px;
+}
