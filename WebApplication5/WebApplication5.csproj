@@ -117,6 +117,12 @@
     <Content Include="Content\6.png" />
     <Content Include="Content\7.png" />
     <Content Include="Content\8.png" />
+    <Content Include="Content\Asset\css\owl.carousel.min.css" />
+    <Content Include="Content\Asset\css\owl.theme.default.min.css" />
+    <Content Include="Content\Asset\js\app.js" />
+    <Content Include="Content\Asset\js\highlight.js" />
+    <Content Include="Content\Asset\js\jquery.min.js" />
+    <Content Include="Content\Asset\js\owl.carousel.min.js" />
     <Content Include="Content\b1.png" />
     <Content Include="Content\b2.png" />
     <Content Include="Content\b3.png" />

@@ -13,11 +13,9 @@
 
 
 
-    <link href="Asset/css/owl.theme.default.min.css" rel="stylesheet" />
-    <link href="Asset/css/owl.carousel.min.css" rel="stylesheet" />
-
-
-
+   
+    <link href="Content/Asset/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="Content/Asset/css/owl.carousel.min.css" rel="stylesheet" />
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
 
@@ -35,8 +33,6 @@
 
 <body>
     <form runat="server">
-
-
 
         <nav class="navbar navbar-expand-sm ">
             <div class="container-fluid ">
@@ -135,12 +131,10 @@
 
 
     </form>
-
-
-    <script src="Asset/js/jquery.min.js"></script>
-    <script src="Asset/js/owl.carousel.min.js"></script>
-    <script src="Asset/js/highlight.js"></script>
-    <script src="Asset/js/app.js"></script>
+    <script src="Content/Asset/js/jquery.min.js"></script>
+    <script src="Content/Asset/js/owl.carousel.min.js"></script>
+    <script src="Content/Asset/js/highlight.js"></script>
+    <script src="Content/Asset/js/app.js"></script>
     <script>
         $(document).ready(function () {
             $('.owl-carousel').owlCarousel({

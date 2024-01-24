@@ -83,8 +83,7 @@
             </tr>
         </table>
     </div>
-    <br />
-    <br />
+    <div class="my-3"></div>
     <h3 class="text-center">PREMIUM AMENITIES TO ELEVATE YOUR LIFESTYLE</h3>
     <p class="text center">Puraniks City is smartly designed to provide you everything for a comfortable living right at your doorstep. Here, thoughtfully designed lifestyle amenities have been incorporated with new-age digital benefits to offer you a hassle-free urban lifestyle.</p>
     <h4 class="text-center">Project Possession : Sector 1 & 2 - June 2023 | Sector 3 & 4 - June 2024</h4>
